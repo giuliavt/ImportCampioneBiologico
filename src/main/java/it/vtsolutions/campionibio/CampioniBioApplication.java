@@ -22,7 +22,7 @@ import it.vtsolutions.campionibio.entity.CampioneBiologico;
 
 @SpringBootApplication
 public class CampioniBioApplication {
-
+//aggiunta testo per test su GitHub
 	public static void main(String[] args) {
 		SpringApplication.run(CampioniBioApplication.class, args);
 
